@@ -16,6 +16,10 @@ Aniruddha Nayak, Devanshu Wakhale, Vivek Gupte
 ![6](https://user-images.githubusercontent.com/67819132/182011701-7367105f-7121-4fb7-a64e-d581c4462665.png)
 ![7](https://user-images.githubusercontent.com/67819132/182011676-031783f2-d5ba-4275-ba2b-57a69553c659.png)
 
+![image](https://user-images.githubusercontent.com/67819132/182011905-0b3bfbda-e322-471f-925c-833b5914edc9.png)
+![image](https://user-images.githubusercontent.com/67819132/182012013-324376e4-57fd-42ea-89a8-ac4d288f123b.png)
+
+
 ## Bill Of Materials
 ![image](https://user-images.githubusercontent.com/67819132/182011575-5b5cce7e-13d2-4bcf-b342-996b2aaa611a.png)
 
