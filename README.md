@@ -2,17 +2,26 @@
 ## The Challenge
 University of Queensland, Australia held an Engineering hackathon to help aid the Global Ventilator Development effort and to combat ventilator shortage all aroound the world. We had to develop a rapidly manufacturable ventilator for emergency use, using off-the-shelf components and improve its functionalities to reach as close to the sophisticated hospital ventiators as possible. 
 
-Software: SolidWorks 2020-2021 (Educational License)
+##### Software: 
+SolidWorks 2020-2021 (Educational License)
 
-Team: Aniruddha Nayak, Devanshu Wakhale, Vivek Gupte
+##### Team: 
+Aniruddha Nayak, Devanshu Wakhale, Vivek Gupte
 
 ## Model Images
-![Full Assemblly Hooded](https://user-images.githubusercontent.com/67819132/182011203-9d5a3dd8-16fa-4178-905c-f7751be888f7.JPG)
-![Bellow Assembly Unhooded](https://user-images.githubusercontent.com/67819132/182011204-90b63829-d1f7-4a61-bdf2-95fde1f86ff9.JPG)
-![Bellow Pipingg](https://user-images.githubusercontent.com/67819132/182011200-3fba3dcc-c9c1-4428-b6fe-fa862ac8e28d.JPG)
+![1](https://user-images.githubusercontent.com/67819132/182011203-9d5a3dd8-16fa-4178-905c-f7751be888f7.JPG)
+![2](https://user-images.githubusercontent.com/67819132/182011758-c04e93aa-ba6f-4829-80ce-45c7e8dc05f8.png)
+![4](https://user-images.githubusercontent.com/67819132/182011612-f2d097dc-cbef-419f-9ee3-1c8e7a478a1f.png)
+![6](https://user-images.githubusercontent.com/67819132/182011701-7367105f-7121-4fb7-a64e-d581c4462665.png)
+![7](https://user-images.githubusercontent.com/67819132/182011676-031783f2-d5ba-4275-ba2b-57a69553c659.png)
 
+## Bill Of Materials
+![image](https://user-images.githubusercontent.com/67819132/182011575-5b5cce7e-13d2-4bcf-b342-996b2aaa611a.png)
+
+![image](https://user-images.githubusercontent.com/67819132/182011592-339dae8a-6ac8-45dd-aab1-e8e043163acd.png)
 
 ## Design Report Presentation:
+![5](https://user-images.githubusercontent.com/67819132/182011776-8114a017-31f0-49e5-b135-6ffa4bd33c73.png)
  
 [BITS-Pilani_Goa_UQHackathon @ GoogleDocs](https://docs.google.com/presentation/d/17unPC_jF8LLdkqK38CDY5I1VYVeLeJeprGKCvtzLYpw/edit?usp=sharing)
  
