@@ -1,4 +1,5 @@
 # Ventilator-Design
+
 ## The Challenge
 University of Queensland, Australia held an Engineering design hackathon to help aid the global ventilator development effort and to combat ventilator shortage all aroound the world. We developed a rapidly manufacturable ventilator for emergency use, using off-the-shelf components and improve its functionalities to reach as close to the sophisticated hospital ventiators as possible. 
 
@@ -21,6 +22,7 @@ Aniruddha Nayak, Devanshu Wakhale, Vivek Gupte
 ![image](https://user-images.githubusercontent.com/67819132/182011592-339dae8a-6ac8-45dd-aab1-e8e043163acd.png)
 
 ## Design Report Presentation:
+
 ![5](https://user-images.githubusercontent.com/67819132/182011776-8114a017-31f0-49e5-b135-6ffa4bd33c73.png)
  
 [BITS-Pilani_Goa_UQHackathon @ GoogleDocs](https://docs.google.com/presentation/d/17unPC_jF8LLdkqK38CDY5I1VYVeLeJeprGKCvtzLYpw/edit?usp=sharing)
