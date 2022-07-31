@@ -1,6 +1,6 @@
 # Ventilator-Design
 ## The Challenge
-University of Queensland, Australia held an Engineering hackathon to help aid the Global Ventilator Development effort and to combat ventilator shortage all aroound the world. We had to develop a rapidly manufacturable ventilator for emergency use, using off-the-shelf components and improve its functionalities to reach as close to the sophisticated hospital ventiators as possible. 
+University of Queensland, Australia held an Engineering design hackathon to help aid the global ventilator development effort and to combat ventilator shortage all aroound the world. We developed a rapidly manufacturable ventilator for emergency use, using off-the-shelf components and improve its functionalities to reach as close to the sophisticated hospital ventiators as possible. 
 
 ##### Software: 
 SolidWorks 2020-2021 (Educational License)
